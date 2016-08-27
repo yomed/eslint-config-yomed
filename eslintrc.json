@@ -63,6 +63,7 @@
         "semi-spacing": 2,
         "eol-last": 2,
         "consistent-this": [1, "that"],
-        "valid-jsdoc": 2
+        "valid-jsdoc": 2,
+        "padded-blocks": [2, "never"]
     }
 }
