@@ -21,7 +21,7 @@
         "no-use-before-define": [1, "nofunc"],
         "new-cap": 0,
         "no-caller": 2,
-        "no-empty": 2,
+        "no-empty": [2, {"allowEmptyCatch": true}],
         "no-irregular-whitespace": 2,
         "quotes": [2, "single"],
         "no-undef": 2,
