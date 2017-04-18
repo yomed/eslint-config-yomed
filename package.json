@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yomed/eslint-config-yomed/issues"
   },
-  "homepage": "https://github.com/yomed/eslint-config-yomed"
+  "homepage": "https://github.com/yomed/eslint-config-yomed",
+  "dependencies": {
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
