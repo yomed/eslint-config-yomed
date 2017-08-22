@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/yomed/eslint-config-yomed",
   "dependencies": {
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-mocha": "^4.11.0"
   }
 }
